@@ -1,0 +1,13 @@
+{
+  "allowedOrigins": [
+    "*"
+  ],
+  "port": 5000,
+  "livePort": 5002,
+  "recordTimeout": 610000,
+  "writePath": "/tmp",
+  "size": {
+    "width": 900,
+    "height": 1600
+  }
+}
