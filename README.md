@@ -52,8 +52,6 @@ In config.json, you can specify :
 	- `filename`: name of your recording file
 	
   To start the recording.
-- **POST** : `/api/record/stop filename`
-	
-	- `filename`: name of your recording file
+- **POST** : `/api/record/stop`
 	
 	To stop the recording -> also encoding from h264 to mp4 (can take some time)
