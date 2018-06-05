@@ -1,16 +1,20 @@
 {
   "name": "pi_video_recording",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for raspberry-pi video recording & live",
   "main": "server.js",
   "author": "François Donval <f9donval@gmail.com>",
   "homepage": "https://github.com/leboncoin/pi-video-recording#readme",
   "contributors": [
-    {"name": "Romain Louvet"},
-    {"name": "Vaïk Duhautois"}
+    {
+      "name": "Romain Louvet"
+    },
+    {
+      "name": "Vaïk Duhautois"
+    }
   ],
   "license": "ISC",
-  "dependencies" : {
+  "dependencies": {
     "express": "~4.0.0",
     "body-parser": "~1.0.1",
     "tree-kill": "~0.0.6"
